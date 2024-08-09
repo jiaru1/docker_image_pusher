@@ -1,4 +1,3 @@
 
 #支持私库
-rustdesk/rustdesk-server-s6:latest
-
+ghcr.io/1panel-dev/1panel:latest
