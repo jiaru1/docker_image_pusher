@@ -1,3 +1,7 @@
 
 #支持私库
-moelin/1panel:latest
+binaryify/netease_cloud_music_api
+xhofe/alist:latest
+p3terx/aria2-pro
+p3terx/ariang
+zhayujie/chatgpt-on-wechat
