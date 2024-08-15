@@ -1,7 +1,3 @@
 
 #支持私库
-binaryify/netease_cloud_music_api
-xhofe/alist:latest
-p3terx/aria2-pro
-p3terx/ariang
-zhayujie/chatgpt-on-wechat
+gethomepage/homepage:latest
