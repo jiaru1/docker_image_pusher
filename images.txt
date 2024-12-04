@@ -1,3 +1,4 @@
 
 #支持私库
-louislam/uptime-kuma:latest
+docker.io/jc21/nginx-proxy-manager:latest
+ddnsgo/ddnsgo
